@@ -1,0 +1,17 @@
+! Roblox blocklist for AdGuard Home
+! Blocks Roblox domains (login, game servers, APIs, assets)
+! Date: 2025-09-28
+
+||roblox.com^
+||rbxcdn.com^
+||rbxcdn.us^
+||rbxcdn.io^
+||rbxapi.com^
+||roblox.qq.com^
+||rbx-*.akamaized.net^
+||roblox.map.fastly.net^
+||roblox.map.fastlylb.net^
+||roblox-cdn.*^
+||robloxapp.*^
+||roblox.plus^
+||rbxtrk.com^
