@@ -15,3 +15,7 @@
 ||robloxapp.*^
 ||roblox.plus^
 ||rbxtrk.com^
+||roblox.com^$important
+||rbxcdn.com^$important
+||rbxtrk.com^$important
+||roblox.plus^$important
